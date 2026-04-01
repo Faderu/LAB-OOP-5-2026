@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Num1 {
+public class TP1_1_H071251052 {
     public static void main(String[] args) {
         Scanner x = new Scanner(System.in);
         System.out.print("Masukkan kalimat: ");

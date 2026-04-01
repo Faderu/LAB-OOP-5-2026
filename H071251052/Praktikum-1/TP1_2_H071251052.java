@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Num2 {
+public class TP1_2_H071251052 {
     public static void main(String[] args) {
         Scanner alf = new Scanner(System.in);
         System.out.println("Input:");

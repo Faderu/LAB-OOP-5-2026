@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Num5 {
+public class TP1_5_H071251052 {
     public static void main(String[] args) {
         int[][] num = {{1, 2, 3},
                         {4, 5, 6},
